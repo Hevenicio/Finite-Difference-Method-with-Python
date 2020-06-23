@@ -1,4 +1,4 @@
-# Finite-Difference-Method
+# Finite-Difference-Method-with-Python
 
 ## Project Description
 O método das diferenças finitas é um método de resolução de equações diferenciais que se baseia na aproximação de derivadas por diferenças finitas. Neste projeto, foi possível resolver o problema do valor limite de equações diferenciais com o método das diferenças finitas usando um determinado número de intervalos. Esse método foi aplicado para resolver a equação diferencial abaixo, 
